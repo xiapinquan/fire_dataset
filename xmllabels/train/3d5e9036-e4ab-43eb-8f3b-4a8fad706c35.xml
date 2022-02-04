@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>3d5e9036-e4ab-43eb-8f3b-4a8fad706c35.jpg</filename>
+	<path>D:\存储\BaiduNetdiskDownload\fire_detection\VOC2020\1\3d5e9036-e4ab-43eb-8f3b-4a8fad706c35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>497</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>206</xmin>
+			<ymin>382</ymin>
+			<xmax>262</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>
